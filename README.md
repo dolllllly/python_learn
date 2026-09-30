@@ -5,55 +5,96 @@ each page contain notes and practices question from beginner level to MNC interv
 
 -Learning Approach
 I am focusing on:
----Understanding concepts instead of only memorizing syntax
----Building programming logic
----Solving problems without depending on built-in shortcuts
----Debugging errors
----Practicing interview-style questions
----Writing clean and readable Python code
----Building projects progressively
+
+    ---Understanding concepts instead of only memorizing syntax
+    
+    ---Building programming logic
+    
+    ---Solving problems without depending on built-in shortcuts
+    
+    ---Debugging errors
+    
+    ---Practicing interview-style questions
+    
+    ---Writing clean and readable Python code
+
+    ---Building projects progressively
 
 
 📚 Topics Covered\
 
 Python Fundamentals
+    
     -Variables and Data Types
+    
     -Input and Output
+    
     -Operators
+    
     -Conditional Statements
+    
     -Loops
+    
     -Functions
+    
     -Lists
+    
     -Tuples
+    
     -Sets
+    
     -Dictionaries
+    
     -Strings
     
 Problem Solving
-    -Number-based problems
-    -Pattern problems
-    -String problems
-    -List problems
-    -Frequency counting
-    -Searching
-    -Logic-building problems
-    -Debugging
-    -Output prediction
+      
+        -Number-based problems
+        
+        -Pattern problems
+        
+        -String problems
+        
+        -List problems
+        
+        -Frequency counting
+        
+        -Searching
+        
+        -Logic-building problems
+        
+        -Debugging
+        
+        -Output prediction
 
 Advanced Python
-    -*args and **kwargs
-    -Lambda Functions
-    -map()
-    -filter()
-    -reduce()
-    -Recursion
-    -Comprehensions
-    -Advanced sorting
-    -Generators
-    -Decorators
-    -Exception handling
-    -File handling
-    -OOP
+       
+        -*args and **kwargs
+       
+        -Lambda Functions
+        
+        -map()
+        
+        -filter()
+        
+        -reduce()
+        
+        -Recursion
+        
+        -Comprehensions
+        
+        -Advanced sorting
+        
+        -Generators
+        
+        -Decorators
+        
+        -Exception handling
+        
+        -File handling
+        
+        -OOP
+
 
 
 
